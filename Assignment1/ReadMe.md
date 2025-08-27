@@ -10,6 +10,8 @@
 
 # Design
 In this project, there are SmartLight, SimpleLight and Fan. SmartLight has extra functions to change color of light. All these share the ISwitchable interface.
+<img width="878" height="404" alt="image" src="https://github.com/user-attachments/assets/d5a10883-d670-4364-953e-f9976c65496c" />
+
 
 # Environment
 The project builds and runs with Visual Studio Community 2022 when the required workloads are installed.
